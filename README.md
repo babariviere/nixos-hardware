@@ -42,6 +42,7 @@ See code for all available configurations.
 | [Dell XPS 15 9550][]              | `<nixos-hardware/dell/xps/15-9550>`                |
 | [Inverse Path USB armory][]       | `<nixos-hardware/inversepath/usbarmory>`           |
 | Lenovo IdeaPad Z510               | `<nixos-hardware/lenovo/ideapad/z510>`             |
+| Lenovo ThinkPad P1 Gen 2          | `<nixos-hardware/lenovo/thinkpad/p1/gen2>`         |
 | Lenovo ThinkPad P53               | `<nixos-hardware/lenovo/thinkpad/p53>`             |
 | Lenovo ThinkPad T410              | `<nixos-hardware/lenovo/thinkpad/t410>`            |
 | Lenovo ThinkPad T420              | `<nixos-hardware/lenovo/thinkpad/t420>`            |
@@ -79,6 +80,7 @@ See code for all available configurations.
 [Dell XPS 13 9380]: dell/xps/13-9380
 [Dell XPS 15 9550]: dell/xps/15-9550
 [Inverse Path USB armory]: inversepath/usbarmory
+[Lenovo ThinkPad P1 Gen 2]: lenovo/thinkpad/p1/gen2
 [Lenovo ThinkPad X1 (6th Gen)]: lenovo/thinkpad/x1/6th-gen
 [Lenovo ThinkPad X260]: lenovo/thinkpad/x260
 [Microsoft Surface Pro 3]: microsoft/surface-pro/3
